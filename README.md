@@ -8,3 +8,5 @@ chmod +x setup.sh
 . setup.sh
 jupyter notebook
 ```
+
+__Source for activity:__ [This great repo of ML algorithms in pure numpy}(https://github.com/ddbourgin/numpy-ml)
