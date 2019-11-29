@@ -9,4 +9,4 @@ chmod +x setup.sh
 jupyter notebook
 ```
 
-__Source for activity:__ [This great repo of ML algorithms in pure numpy}(https://github.com/ddbourgin/numpy-ml)
+__Source for activity:__ [This great repo of ML algorithms in pure numpy](https://github.com/ddbourgin/numpy-ml)
