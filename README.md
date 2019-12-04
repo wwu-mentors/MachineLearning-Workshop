@@ -10,3 +10,8 @@ jupyter notebook
 ```
 
 __Source for activity:__ [This great repo of ML algorithms in pure numpy](https://github.com/ddbourgin/numpy-ml)
+
+## Resources
+[Notes on Using Data Science & Artificial Intelligence](https://chrisalbon.com/)
+
+[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
