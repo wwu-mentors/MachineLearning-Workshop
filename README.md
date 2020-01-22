@@ -15,3 +15,7 @@ __Source for activity:__ [This great repo of ML algorithms in pure numpy](https:
 [Notes on Using Data Science & Artificial Intelligence](https://chrisalbon.com/)
 
 [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+
+[Neural Nets Animated](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
+[Linear Algebra Visualizations](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
